@@ -1,0 +1,8 @@
+{
+  "name": "Spring Boot Book Seller",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
